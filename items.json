@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Used Samsung Phone",
+    "price": "3,500 ETB",
+    "description": "Good condition, battery is strong.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "title": "Second-hand Laptop",
+    "price": "18,000 ETB",
+    "description": "Dell laptop, works perfectly.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
