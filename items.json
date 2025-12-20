@@ -4,55 +4,55 @@
     "title": "Used Samsung Phone",
     "price": "3,500 ETB",
     "description": "Good condition, battery is strong.",
-    "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Phone"
+    "image": "https://i.imgur.com/8Km9tLL.jpg"
   },
   {
     "id": 2,
     "title": "Second-hand Laptop",
     "price": "18,000 ETB",
     "description": "Dell laptop, works perfectly.",
-    "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Laptop"
+    "image": "https://i.imgur.com/8wTZK8m.jpg"
   },
   {
     "id": 3,
     "title": "Used Chair",
     "price": "500 ETB",
     "description": "Comfortable wooden chair.",
-    "image": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Chair"
+    "image": "https://i.imgur.com/Ux4FzQ7.jpg"
   },
   {
     "id": 4,
     "title": "Second-hand Table",
     "price": "1,200 ETB",
     "description": "Dining table, slight scratches.",
-    "image": "https://via.placeholder.com/150/FFFF00/000000?text=Table"
+    "image": "https://i.imgur.com/3Z0pFdr.jpg"
   },
   {
     "id": 5,
     "title": "Used Bicycle",
     "price": "2,000 ETB",
     "description": "Mountain bike, works fine.",
-    "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Bicycle"
+    "image": "https://i.imgur.com/5pKJbQs.jpg"
   },
   {
     "id": 6,
     "title": "Old TV",
     "price": "3,000 ETB",
     "description": "32 inch LED TV, good picture.",
-    "image": "https://via.placeholder.com/150/00FFFF/000000?text=TV"
+    "image": "https://i.imgur.com/NnX9QF2.jpg"
   },
   {
     "id": 7,
     "title": "Used Shoes",
     "price": "800 ETB",
     "description": "Men’s shoes, size 42.",
-    "image": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Shoes"
+    "image": "https://i.imgur.com/Sc2m1Nx.jpg"
   },
   {
     "id": 8,
     "title": "Old Books Set",
     "price": "1,000 ETB",
     "description": "Set of 10 novels, good condition.",
-    "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Books"
+    "image": "https://i.imgur.com/3KfWq0U.jpg"
   }
 ]
