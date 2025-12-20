@@ -6,8 +6,9 @@
     "description": "Good condition, battery is strong.",
     "category": "Electronics",
     "images": [
-      "https://i.imgur.com/8Km9tLL.jpg",
-      "https://i.imgur.com/QfFq1D1.jpg"
+      "https://imgur.com/a/PseV4mD",
+      "https://imgur.com/a/BPKGJtj",
+      "https://imgur.com/a/99xbNZe"
     ]
   },
   {
@@ -17,8 +18,9 @@
     "description": "Dell laptop, works perfectly.",
     "category": "Electronics",
     "images": [
-      "https://i.imgur.com/8wTZK8m.jpg",
-      "https://i.imgur.com/0iZVf0Z.jpg"
+      "https://imgur.com/a/ZgMGAgE",
+      "https://imgur.com/a/tdOfHK2",
+      "https://imgur.com/a/Kfb12Hv"
     ]
   },
   {
@@ -28,8 +30,8 @@
     "description": "Comfortable wooden chair.",
     "category": "Furniture",
     "images": [
-      "https://i.imgur.com/Ux4FzQ7.jpg",
-      "https://i.imgur.com/Dv7iG4p.jpg"
+      "https://imgur.com/a/WeplsAg",
+      "https://imgur.com/a/nmMgnRH"
     ]
   },
   {
@@ -39,8 +41,9 @@
     "description": "Dining table, slight scratches.",
     "category": "Furniture",
     "images": [
-      "https://i.imgur.com/3Z0pFdr.jpg",
-      "https://i.imgur.com/JtXvFzS.jpg"
+      "https://imgur.com/a/Cc8zt1S",
+      "https://imgur.com/a/vKvY2YA",
+      "https://imgur.com/a/RkknpbL"
     ]
   },
   {
@@ -50,41 +53,8 @@
     "description": "Mountain bike, works fine.",
     "category": "Bikes",
     "images": [
-      "https://i.imgur.com/5pKJbQs.jpg",
-      "https://i.imgur.com/8U1nJ8c.jpg"
+      "https://imgur.com/a/9g1bWuX",
+      "https://imgur.com/a/mMQZTu2"
     ]
   },
-  {
-    "id": 6,
-    "title": "Old TV",
-    "price": "3,000 ETB",
-    "description": "32 inch LED TV, good picture.",
-    "category": "Electronics",
-    "images": [
-      "https://i.imgur.com/NnX9QF2.jpg",
-      "https://i.imgur.com/F3a8Wmv.jpg"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Used Shoes",
-    "price": "800 ETB",
-    "description": "Men’s shoes, size 42.",
-    "category": "Clothes",
-    "images": [
-      "https://i.imgur.com/Sc2m1Nx.jpg",
-      "https://i.imgur.com/Wm7P3pH.jpg"
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Old Books Set",
-    "price": "1,000 ETB",
-    "description": "Set of 10 novels, good condition.",
-    "category": "Books",
-    "images": [
-      "https://i.imgur.com/3KfWq0U.jpg",
-      "https://i.imgur.com/F8TR4nZ.jpg"
-    ]
-  }
-]
+ 
