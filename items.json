@@ -12,17 +12,7 @@
       "https://picsum.photos/id/12/500/400"
     ]
   },
-  {
-  "id": "90",
-  "title": "good iphone 11",
-  "price": 18000,
-  "location": "Addis Ababa",
-  "category": "Phones",
-  "images": [
-    "https://picsum.photos/id/10/500/400",
-      "https://picsum.photos/id/11/500/400",
-      "https://picsum.photos/id/12/500/400"
-  ],
+
   "description": "Clean used phone"
 }
 ,
