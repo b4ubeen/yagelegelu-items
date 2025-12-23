@@ -4,6 +4,7 @@
     "title": "old Tv",
     "price": "3,500 ETB",
     "location": "Debre Birhan",
+    "status": "available" ,
     "category": "Electronics",
     "description": "Good condition old tv and it was used for only 454 years and it never had issue before except its screen dont work, it doesn't open and it don't have speakers.",
     "images": [
@@ -21,6 +22,7 @@
     "title": "iPhone 8",
     "price": "6,000 ETB",
     "category": "Phones",
+    "status": "available" ,
     "description": "iPhone 8, used but works perfectly.",
     "images": [
       "https://picsum.photos/id/13/500/400",
@@ -32,6 +34,7 @@
     "title": "Dell Laptop",
     "price": "18,000 ETB",
     "category": "Laptops",
+    "status": "sold",
     "description": "Dell laptop for work and study.",
     "images": [
       "https://picsum.photos/id/20/500/400",
@@ -44,6 +47,7 @@
     "title": "HP Laptop",
     "price": "20,000 ETB",
     "category": "Laptops",
+    "status": "available",
     "description": "HP laptop in very good condition.",
     "images": [
       "https://picsum.photos/id/23/500/400",
@@ -55,6 +59,7 @@
     "title": "Wooden Chair",
     "price": "500 ETB",
     "category": "Furniture",
+    "status": "sold",
     "description": "Comfortable wooden chair.",
     "images": [
       "https://picsum.photos/id/30/500/400",
@@ -66,6 +71,7 @@
     "title": "Dining Table",
     "price": "1,200 ETB",
     "category": "Furniture",
+    "status": "available",
     "description": "Used dining table, strong and clean.",
     "images": [
       "https://picsum.photos/id/32/500/400",
@@ -78,6 +84,7 @@
     "title": "Office Desk",
     "price": "1,500 ETB",
     "category": "Furniture",
+    "status": "available",
     "description": "Office desk for study or work.",
     "images": [
       "https://picsum.photos/id/35/500/400",
@@ -89,6 +96,7 @@
     "title": "LED TV 32 inch",
     "price": "3,000 ETB",
     "category": "Electronics",
+    "status": "sold",
     "description": "32 inch LED TV with clear display.",
     "images": [
       "https://picsum.photos/id/40/500/400",
@@ -101,6 +109,7 @@
     "title": "Used Refrigerator",
     "price": "7,500 ETB",
     "category": "Electronics",
+    "status": "available",
     "description": "Refrigerator in good working condition.",
     "images": [
       "https://picsum.photos/id/43/500/400",
@@ -112,6 +121,7 @@
     "title": "Microwave Oven",
     "price": "2,500 ETB",
     "category": "Electronics",
+    "status": "available",
     "description": "Microwave oven, clean and functional.",
     "images": [
       "https://picsum.photos/id/45/500/400",
@@ -123,6 +133,7 @@
     "title": "Mountain Bicycle",
     "price": "2,000 ETB",
     "category": "Bikes",
+    "status": "available",
     "description": "Strong mountain bike, ready to ride.",
     "images": [
       "https://picsum.photos/id/50/500/400",
@@ -135,6 +146,7 @@
     "title": "City Bicycle",
     "price": "1,800 ETB",
     "category": "Bikes",
+    "status": "available",
     "description": "Comfortable city bike for daily use.",
     "images": [
       "https://picsum.photos/id/53/500/400",
@@ -146,6 +158,7 @@
     "title": "Men's Shoes",
     "price": "800 ETB",
     "category": "Clothes",
+    "status": "available",
     "description": "Used men’s shoes, size 42.",
     "images": [
       "https://picsum.photos/id/60/500/400",
@@ -157,6 +170,7 @@
     "title": "Women's Jacket",
     "price": "900 ETB",
     "category": "Clothes",
+    "status": "available",
     "description": "Warm women’s jacket, good condition.",
     "images": [
       "https://picsum.photos/id/62/500/400",
@@ -169,6 +183,7 @@
     "title": "Men's Jacket",
     "price": "1,000 ETB",
     "category": "Clothes",
+    "status": "available",
     "description": "Stylish men’s jacket.",
     "images": [
       "https://picsum.photos/id/65/500/400",
@@ -180,6 +195,7 @@
     "title": "Books Set",
     "price": "1,000 ETB",
     "category": "Books",
+    "status": "available",
     "description": "Set of novels in good condition.",
     "images": [
       "https://picsum.photos/id/70/500/400",
@@ -191,6 +207,7 @@
     "title": "School Books",
     "price": "600 ETB",
     "category": "Books",
+    "status": "available",
     "description": "School books for different grades.",
     "images": [
       "https://picsum.photos/id/72/500/400",
@@ -202,6 +219,7 @@
     "title": "Study Chair",
     "price": "700 ETB",
     "category": "Furniture",
+    "status": "available",
     "description": "Comfortable chair for study.",
     "images": [
       "https://picsum.photos/id/74/500/400",
@@ -213,6 +231,7 @@
     "title": "Android Tablet",
     "price": "2,200 ETB",
     "category": "Electronics",
+    "status": "available",
     "description": "Android tablet, good for videos and study.",
     "images": [
       "https://picsum.photos/id/76/500/400",
@@ -225,6 +244,7 @@
     "title": "Small Bookshelf",
     "price": "900 ETB",
     "category": "Furniture",
+    "status": "sold",
     "description": "Wooden bookshelf for home or office.",
     "images": [
       "https://picsum.photos/id/79/500/400",
